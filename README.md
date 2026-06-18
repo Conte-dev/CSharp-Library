@@ -7,7 +7,7 @@ Applicazione desktop per la gestione del catalogo di una biblioteca, sviluppata 
 
 ## Anteprima
 
-![Screenshot dell'applicazione](assets/screenshot.png)
+![Screenshot dell'applicazione](assets/image.png)
 
 ---
 
